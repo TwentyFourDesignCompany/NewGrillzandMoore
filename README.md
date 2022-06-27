@@ -1,2 +1,1 @@
-# NewGrillzandMoore
-Food ordering and delivery.
+# grillz-moore
