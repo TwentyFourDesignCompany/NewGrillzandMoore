@@ -32,7 +32,7 @@ export default function Home() {
             order food, as the courier will already be at your door! Rather see
             our menu and make the right choice. Sincerely, GRILLZ&MOORE!
           </div>
-          <button className="main_container_btn_sec">Look Menu</button>
+          <button className="main_container_btn_sec">View Menu</button>
         </div>
         <div className="main_container_home_right">
           <img

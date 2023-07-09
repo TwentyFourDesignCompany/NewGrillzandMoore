@@ -45,10 +45,13 @@ export default function Footer() {
         </div>
         <div className="footer_container_wrapper_col">
           <a href="" className="footer_container_wrapper_col_entry">
-            + *******
+            +0808 325 8386
           </a>
-          <a href="" className="footer_container_wrapper_col_entry">
-            *****@gmail.com
+          <a href="https://www.instagram.com/grillzandmoore/" className="footer_container_wrapper_col_entry">
+            Instagram: GrillzandMoore 
+          </a>
+          <a  href="mailto:info@grillzandmoore.com.ng" className="footer_container_wrapper_col_entry">
+            Info@grillzandmoore.com.ng 
           </a>
           <button className="main_container_btn_sec contact_btn">Order</button>
         </div>
