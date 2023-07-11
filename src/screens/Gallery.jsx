@@ -2,6 +2,9 @@ import React from "react";
 import galleryPic from "../assets/galleryPic.png";
 import food1 from "../assets/food1.jpg";
 import food2 from "../assets/food2.jpg";
+import food3 from "../assets/food3.jpg";
+import food4 from "../assets/food4.jpg";
+
 
 export default function Gallery() {
   const handleInstagramFollow = () => {
@@ -29,8 +32,8 @@ export default function Gallery() {
         <div className="gallery_row">
           <img src={food2} alt="galleryPic" className="gallery_row_pic" />
           <img src={food1} alt="galleryPic" className="gallery_row_pic" />
-          <img src={food1} alt="galleryPic" className="gallery_row_pic" />
-          <img src={food2} alt="galleryPic" className="gallery_row_pic" />
+          <img src={food3} alt="galleryPic" className="gallery_row_pic" />
+          <img src={food4} alt="galleryPic" className="gallery_row_pic" />
           <img src={food2} alt="galleryPic" className="gallery_row_pic" />
         </div>
       </div>
